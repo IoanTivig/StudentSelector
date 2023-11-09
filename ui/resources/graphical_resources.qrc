@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/ui/qt/resources">
+    <file>logos/biophys-biotech_logo_1.png</file>
+  </qresource>
+</RCC>
